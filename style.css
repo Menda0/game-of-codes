@@ -1,0 +1,16 @@
+body{
+	background: #27AE60;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+#gameCanvas{
+	padding: 0px;
+	margin: 0px;
+}
+
+@font-face {
+    font-family: GameOfThrones;
+    src: url(assets/fonts/game_of_thrones.ttf);
+}
