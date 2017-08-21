@@ -180,12 +180,12 @@ function Player(name){
 
 function Unit(x,y,player){
 	this.MAX_LIFE = 100;
-	this.DAMAGE = 5;
+	this.DAMAGE = 1;
 	this.ATACK_RADIUS = 20;
 
 	this.x = x;
 	this.y = y;
-	this.velocity = 5;
+	this.velocity = 1;
 	this.player = player;
 
 	this.targetX = null;
@@ -204,7 +204,7 @@ function Unit(x,y,player){
 	}
 
 	this.playSwordSound = function () {
-        var flag = randomIntBetween(0,5)
+        var flag = randomIntBetween(0,10)
 		if(flag == 0) {
             var random = randomIntBetween(0, 4)
             this.player.world.drawer.cc.audioEngine.playEffect("assets/sounds/swords/" + random + ".wav", false)
