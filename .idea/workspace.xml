@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d8dd841-08a7-4988-8697-68ddb6aed2d8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logic.js" afterPath="$PROJECT_DIR$/logic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.json" afterPath="$PROJECT_DIR$/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -86,17 +83,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="130">
-                <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
                 <folding>
-                  <marker date="1503315534000" expanded="true" signature="155:182" ph="{...}" />
-                  <marker date="1503315534000" expanded="true" signature="333:560" ph="{...}" />
-                  <marker date="1503315534000" expanded="true" signature="360:558" ph="{...}" />
-                  <marker date="1503315534000" expanded="true" signature="453:554" ph="{...}" />
+                  <marker date="1503328555000" expanded="true" signature="435:462" ph="{...}" />
+                  <marker date="1503328555000" expanded="true" signature="613:840" ph="{...}" />
+                  <marker date="1503328555000" expanded="true" signature="640:838" ph="{...}" />
+                  <marker date="1503328555000" expanded="true" signature="733:834" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -152,11 +149,11 @@
       <list>
         <option value="$PROJECT_DIR$/ai/squads/ai.js" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project.json" />
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/logic.js" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -347,12 +344,12 @@
       <option name="presentableId" value="Default" />
       <updated>1503067442908</updated>
       <workItem from="1503067445706" duration="12567000" />
-      <workItem from="1503309506836" duration="4503000" />
+      <workItem from="1503309506836" duration="5320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17070000" />
+    <option name="totallyTimeSpent" value="17887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -437,22 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-            <folding>
-              <marker date="1503315534000" expanded="true" signature="155:182" ph="{...}" />
-              <marker date="1503315534000" expanded="true" signature="333:560" ph="{...}" />
-              <marker date="1503315534000" expanded="true" signature="360:558" ph="{...}" />
-              <marker date="1503315534000" expanded="true" signature="453:554" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13-lite/project.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -506,6 +487,22 @@
         <state relative-caret-position="270">
           <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <folding>
+              <marker date="1503328555000" expanded="true" signature="435:462" ph="{...}" />
+              <marker date="1503328555000" expanded="true" signature="613:840" ph="{...}" />
+              <marker date="1503328555000" expanded="true" signature="640:838" ph="{...}" />
+              <marker date="1503328555000" expanded="true" signature="733:834" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

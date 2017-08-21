@@ -1,3 +1,10 @@
+## Description
+
+The objective of this game is to train your basic programing skill creating a AI for this RTS game(Game of thrones based :D).
+Create groups with your friends and peer-program AI to fight with each others.
+
+You can check the game[here.](gameofcodes.betacode.tech)
+
 ## Run
 
 open index.html
